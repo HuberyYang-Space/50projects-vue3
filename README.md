@@ -9,7 +9,7 @@
 
 - [源项目地址](https://github.com/bradtraversy/50projects50days)
 - [源项目演示](https://50projects50days.com/)
-- [当前版本演示地址](https://huberyyang.site:89/day01)
+- [当前版本演示地址](https://projects.huberyyang.site/day01)
 
 ### ✅ 待办
 
